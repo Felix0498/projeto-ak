@@ -28,7 +28,7 @@ if(point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (str
 	if(index==3){
 	game_end()
 	}
-	else if(index==0){instance_activate_all() instance_destroy()}
+	else if(index==0){instance_activate_all() instance_destroy() with(atv_menu){open=false}}
 	else if(index==1){room_restart()}
 	else if(index==2){room_goto(main)}
 	
