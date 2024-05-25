@@ -12,6 +12,13 @@ if (place_meeting(x, y+2, chao ))
 }
 else if (move_y < 10) move_y += 1;
 
+if((estado==E_ESTADO.BOOSTING || estado== E_ESTADO.RUNNING )&& keyboard_check_pressed(vk_enter) ){
+sprite_index=spr_deslizado
+estado=E_ESTADO.DESLIZAR
+
+
+}
+
 move_and_collide(move_x, move_y, chao );
 
 if (move_x != 0) image_xscale = sign(move_x);

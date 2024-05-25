@@ -15,7 +15,8 @@ move_y = 0;
 {
 	RUNNING,
 	BOOSTING,
-	Dead
+	DESLIZAR,
+	Dead,
 };
 
 estado = E_ESTADO.RUNNING;
