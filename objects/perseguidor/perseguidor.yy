@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"NightBorne",
-    "path":"sprites/NightBorne/NightBorne.yy",
+    "name":"Karma_corrida",
+    "path":"sprites/Karma_corrida/Karma_corrida.yy",
   },
   "spriteMaskId":null,
   "visible":true,

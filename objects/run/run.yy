@@ -43,8 +43,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Run9",
-    "path":"sprites/Run9/Run9.yy",
+    "name":"aron_correndo",
+    "path":"sprites/aron_correndo/aron_correndo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
