@@ -95,6 +95,7 @@
     {"id":{"name":"Sky25","path":"sprites/Sky25/Sky25.yy",},},
     {"id":{"name":"spr_deslizado","path":"sprites/spr_deslizado/spr_deslizado.yy",},},
     {"id":{"name":"spr_pause","path":"sprites/spr_pause/spr_pause.yy",},},
+    {"id":{"name":"spr_pulando","path":"sprites/spr_pulando/spr_pulando.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},

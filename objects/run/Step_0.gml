@@ -8,7 +8,13 @@ move_x *= move_speed;
 if (place_meeting(x, y+2, chao ))
 {
 	move_y = 0;
-	if (keyboard_check(vk_space)){ move_y = -jump_speed move_x+=100 };
+	if (keyboard_check(vk_space)){ move_y = -jump_speed move_x*=jump_speed 
+		
+	sprite_index=spr_pulando
+	estado=E_ESTADO.PULANDO
+		};
+	
+	
 }
 else if (move_y < 10) move_y += 1;
 

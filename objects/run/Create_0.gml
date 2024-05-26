@@ -16,6 +16,7 @@ move_y = 0;
 	RUNNING,
 	BOOSTING,
 	DESLIZAR,
+	PULANDO,
 	Dead,
 };
 

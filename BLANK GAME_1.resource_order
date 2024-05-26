@@ -59,6 +59,7 @@
     {"name":"Sky25","order":5,"path":"sprites/Sky25/Sky25.yy",},
     {"name":"spr_deslizado","order":7,"path":"sprites/spr_deslizado/spr_deslizado.yy",},
     {"name":"spr_pause","order":18,"path":"sprites/spr_pause/spr_pause.yy",},
+    {"name":"spr_pulando","order":8,"path":"sprites/spr_pulando/spr_pulando.yy",},
     {"name":"Sprite10","order":2,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite13","order":17,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"Sprite17","order":11,"path":"sprites/Sprite17/Sprite17.yy",},
