@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_btnPULO",
+  "%Name":"obj_btnDASH",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_btnPULO",
+  "name":"obj_btnDASH",
   "overriddenProperties":[],
   "parent":{
     "name":"btn",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SPR_BTNPULANDO",
-    "path":"sprites/SPR_BTNPULANDO/SPR_BTNPULANDO.yy",
+    "name":"SPR_BTNDASH",
+    "path":"sprites/SPR_BTNDASH/SPR_BTNDASH.yy",
   },
   "spriteMaskId":null,
   "visible":true,
