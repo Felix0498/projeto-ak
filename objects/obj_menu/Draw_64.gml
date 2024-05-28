@@ -10,6 +10,7 @@ draw_set_halign(fa_center)
 draw_set_valign(fa_center)
 /////  tracar ara tque
 ////
+
 for(i=0;i<main_ac;i++){
 	y2 = y1+(margem*i)
 	string_w=string_width(menu[i])
@@ -18,9 +19,9 @@ for(i=0;i<main_ac;i++){
 	
 	
 	
-
+//point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (string_w/ 2),y2 + (string_h / 2))
 	//ajustar
-if(point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (string_w/ 2),y2 + (string_h / 2))){
+if(index==i){
 	draw_set_color(c_red)
 	draw_set_font(he_1)
 	audio_play_sound(fogo,4,false)
@@ -28,7 +29,7 @@ if(point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (str
 	
 	index=i;
 	//trocar pra toque 
-	if(mouse_check_button_pressed(mb_left)){
+	if(keyboard_check(vk_enter)){
 	if(index==2){
 	game_end()
 	}
