@@ -26,7 +26,7 @@ if(index==i){
 	draw_set_font(he_1)
 	index=i;
 	//trocar pra toque 
-	if(keyboard_check(vk_enter)){
+	if(keyboard_check_pressed(vk_enter)){
 	if(index==3){
 	game_end()
 	}

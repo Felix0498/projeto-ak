@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_up",
+  "%Name":"trocar_opcao_audio",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_up",
+  "name":"trocar_opcao_audio",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu_botões",
-    "path":"folders/Objetos/menus/menu_botões.yy",
+    "name":"audios",
+    "path":"folders/Objetos/audios.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_up",
-    "path":"sprites/spr_up/spr_up.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

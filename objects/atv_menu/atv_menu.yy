@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"menu pause",
-    "path":"folders/Objetos/menu pause.yy",
+    "path":"folders/Objetos/menus/menu pause.yy",
   },
   "parentObjectId":null,
   "persistent":true,

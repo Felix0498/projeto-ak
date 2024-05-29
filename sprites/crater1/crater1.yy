@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"personagem",
-    "path":"folders/Sprites/personagem.yy",
+    "name":"chão",
+    "path":"folders/Sprites/cenario/chão.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

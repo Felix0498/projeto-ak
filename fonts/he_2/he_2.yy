@@ -77,8 +77,8 @@
   "maintainGms1Font":false,
   "name":"he_2",
   "parent":{
-    "name":"Fontes",
-    "path":"folders/Fontes.yy",
+    "name":"fonte_gui",
+    "path":"folders/Fontes/fonte_gui.yy",
   },
   "pointRounding":0,
   "ranges":[
