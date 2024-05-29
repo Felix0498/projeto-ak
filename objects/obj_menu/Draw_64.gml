@@ -24,17 +24,25 @@ for(i=0;i<main_ac;i++){
 if(index==i){
 	draw_set_color(c_red)
 	draw_set_font(he_1)
-	audio_play_sound(fogo,4,false)
-	audio_pause_sound(fogo)
-	
 	index=i;
 	//trocar pra toque 
 	if(keyboard_check(vk_enter)){
-	if(index==2){
+	if(index==3){
 	game_end()
 	}
 	else if(index==0){room_goto(Room1)}
+	else if(index==2){
+		if(criador_de_som.music==true){
+			criador_de_som.music= !criador_de_som.music
+			audio_pause_all()
+		}
+		else{
+		audio_play_sound(sn_menu, 0, true);
+		 criador_de_som.music=true
+		}
 	}
+	}
+
 	}else{draw_set_color(c_white)}
 		draw_text(x1,y2,menu[i])
 		draw_set_font(he)

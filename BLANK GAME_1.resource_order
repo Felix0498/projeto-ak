@@ -33,6 +33,7 @@
     {"name":"Obj_dano","order":4,"path":"objects/Obj_dano/Obj_dano.yy",},
     {"name":"Obj_down","order":1,"path":"objects/Obj_down/Obj_down.yy",},
     {"name":"Obj_up","order":2,"path":"objects/Obj_up/Obj_up.yy",},
+    {"name":"criador_de_som","order":11,"path":"objects/criador_de_som/criador_de_som.yy",},
     {"name":"parallax","order":1,"path":"objects/parallax/parallax.yy",},
     {"name":"perseguidor","order":5,"path":"objects/perseguidor/perseguidor.yy",},
     {"name":"run","order":2,"path":"objects/run/run.yy",},

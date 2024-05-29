@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Anotações","folderPath":"folders/Anotações.yy","name":"Anotações","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -46,7 +46,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"BLANK GAME_1",
   "resources":[
@@ -66,6 +66,7 @@
     {"id":{"name":"obj_main_retart","path":"objects/obj_main_retart/obj_main_retart.yy",},},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"Obj_up","path":"objects/Obj_up/Obj_up.yy",},},
+    {"id":{"name":"criador_de_som","path":"objects/criador_de_som/criador_de_som.yy",},},
     {"id":{"name":"parallax","path":"objects/parallax/parallax.yy",},},
     {"id":{"name":"perseguidor","path":"objects/perseguidor/perseguidor.yy",},},
     {"id":{"name":"run","path":"objects/run/run.yy",},},
