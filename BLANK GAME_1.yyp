@@ -46,7 +46,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"BLANK GAME_1",
   "resources":[
@@ -57,6 +57,7 @@
     {"id":{"name":"he","path":"fonts/he/he.yy",},},
     {"id":{"name":"atv_menu","path":"objects/atv_menu/atv_menu.yy",},},
     {"id":{"name":"chao","path":"objects/chao/chao.yy",},},
+    {"id":{"name":"criador_de_som","path":"objects/criador_de_som/criador_de_som.yy",},},
     {"id":{"name":"Menu_pause","path":"objects/Menu_pause/Menu_pause.yy",},},
     {"id":{"name":"obj_btnDASH","path":"objects/obj_btnDASH/obj_btnDASH.yy",},},
     {"id":{"name":"obj_btnPULO","path":"objects/obj_btnPULO/obj_btnPULO.yy",},},
@@ -66,7 +67,6 @@
     {"id":{"name":"obj_main_retart","path":"objects/obj_main_retart/obj_main_retart.yy",},},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"Obj_up","path":"objects/Obj_up/Obj_up.yy",},},
-    {"id":{"name":"criador_de_som","path":"objects/criador_de_som/criador_de_som.yy",},},
     {"id":{"name":"parallax","path":"objects/parallax/parallax.yy",},},
     {"id":{"name":"perseguidor","path":"objects/perseguidor/perseguidor.yy",},},
     {"id":{"name":"run","path":"objects/run/run.yy",},},
