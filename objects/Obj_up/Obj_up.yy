@@ -8,8 +8,8 @@
   "name":"Obj_up",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objetos/menu.yy",
+    "name":"menu_botões",
+    "path":"folders/Objetos/menus/menu_botões.yy",
   },
   "parentObjectId":null,
   "persistent":false,

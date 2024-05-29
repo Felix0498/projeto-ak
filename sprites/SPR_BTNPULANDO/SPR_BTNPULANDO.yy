@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"BLANK GAME_1",
-    "path":"BLANK GAME_1.yyp",
+    "name":"botões",
+    "path":"folders/Sprites/botões.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

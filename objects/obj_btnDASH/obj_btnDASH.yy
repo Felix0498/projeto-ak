@@ -9,8 +9,8 @@
   "name":"obj_btnDASH",
   "overriddenProperties":[],
   "parent":{
-    "name":"btn",
-    "path":"folders/Objetos/btn.yy",
+    "name":"botões",
+    "path":"folders/Objetos/botões.yy",
   },
   "parentObjectId":null,
   "persistent":false,

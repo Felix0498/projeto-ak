@@ -35,8 +35,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"personagem",
-    "path":"folders/Sprites/personagem.yy",
+    "name":"karma",
+    "path":"folders/Sprites/personagens/karma.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

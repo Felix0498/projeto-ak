@@ -4,14 +4,13 @@
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_main_retart",
   "overriddenProperties":[],
   "parent":{
     "name":"menu restart",
-    "path":"folders/Objetos/menu restart.yy",
+    "path":"folders/Objetos/menus/menu restart.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"menu_background",
-    "path":"sprites/menu_background/menu_background.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

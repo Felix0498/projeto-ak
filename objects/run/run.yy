@@ -14,8 +14,8 @@
   "name":"run",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"aron",
+    "path":"folders/Objetos/personagens/aron.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,6 +1,13 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
+draw_set_font(he)
+var gui_width=display_get_gui_width()
+var gui_height=display_get_gui_height()
+var x1= gui_width / 2
+var y1= gui_height / 2
+var margem=100
+draw_set_halign(fa_center)
+draw_set_valign(fa_center)
 /////  tracar ara tque
 ////
 
@@ -19,7 +26,7 @@ if(index==i){
 	draw_set_font(he_1)
 	index=i;
 	//trocar pra toque 
-	if(touch_detected = true&&index==i){
+	if(keyboard_check_pressed(vk_enter)){
 	if(index==3){
 	game_end()
 	}

@@ -24,7 +24,7 @@ if(index==i){
 	
 	index=i;
 	//trocar ara toque 
-	if(gesture_get_tap_count()){
+	if(keyboard_check_pressed(vk_enter)){
 	if(index==3){
 	game_end()
 	}

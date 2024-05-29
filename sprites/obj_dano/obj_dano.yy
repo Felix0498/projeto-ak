@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"cenario",
-    "path":"folders/Sprites/cenario.yy",
+    "name":"fundo",
+    "path":"folders/Sprites/cenario/fundo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

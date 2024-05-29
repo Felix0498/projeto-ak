@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"menu pause",
-    "path":"folders/Objetos/menu pause.yy",
+    "path":"folders/Objetos/menus/menu pause.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

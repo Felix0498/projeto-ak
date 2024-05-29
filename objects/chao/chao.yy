@@ -8,8 +8,8 @@
   "name":"chao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"cenario",
+    "path":"folders/Objetos/cenario.yy",
   },
   "parentObjectId":null,
   "persistent":false,

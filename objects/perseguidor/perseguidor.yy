@@ -11,8 +11,8 @@
   "name":"perseguidor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"karma",
+    "path":"folders/Objetos/personagens/karma.yy",
   },
   "parentObjectId":null,
   "persistent":false,
