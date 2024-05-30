@@ -30,7 +30,9 @@ if(index==i){
 	}
 	else if(index==0){instance_activate_all() instance_destroy() with(atv_menu){open=false}}
 	else if(index==1){room_restart()}
-	else if(index==2){room_goto(main)}
+	else if(index==2){room_goto(main)
+			obj_menu.fechar()
+		}
 	
 	
 	

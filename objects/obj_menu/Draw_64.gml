@@ -30,7 +30,11 @@ if(index==i){
 	if(index==3){
 	game_end()
 	}
-	else if(index==0){room_goto(Room1)}
+	else if(index==0){
+		room_goto(Room1)
+		instance_destroy(Obj_up)
+		instance_destroy(Obj_down)
+		}
 	else if(index==2){
 		if(criador_de_som.music==true){
 			criador_de_som.music= !criador_de_som.music

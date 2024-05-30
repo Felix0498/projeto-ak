@@ -29,7 +29,9 @@ if(index=i){
 	game_end()
 	}
 	else if(index==0){room_restart();}
-	else if(index==1){room_goto(main)}
+	else if(index==1){room_goto(main)
+			obj_menu.fechar()
+		}
 	}
 		
 	
