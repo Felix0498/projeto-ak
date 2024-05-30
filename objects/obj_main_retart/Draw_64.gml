@@ -17,14 +17,14 @@ for(i=0;i<max_menuop;i++){
 	y2 = y1+(margem*i)
 	string_w=string_width(opcoes[i])
 	string_h=string_height(opcoes[i])
-	
-if(point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (string_w/ 2),y2 + (string_h / 2))){
+	//point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (string_w/ 2),y2 + (string_h / 2))
+if(index=i){
 	draw_set_color(c_red)
 	draw_set_font(he_2)
 	
 	index=i;
-	//trocar ara toque 
-	if(mouse_check_button_pressed(mb_left)){
+	//trocar ara toque mouse_check_button_pressed(mb_left)
+	if(keyboard_check_pressed(vk_enter)){
 	if(index==2){
 	game_end()
 	}

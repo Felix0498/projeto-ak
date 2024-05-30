@@ -7,3 +7,7 @@ sprite_index=spr_pulando
 }
 estado= E_ESTADO.RUNNING
 sprite_index=aron_correndo
+if(estado==E_ESTADO.Dead){
+
+image_speed=0
+}

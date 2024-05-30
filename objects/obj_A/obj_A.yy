@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_main_retart",
+  "%Name":"obj_A",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_main_retart",
+  "name":"obj_A",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu restart",
-    "path":"folders/Objetos/menus/menu restart.yy",
+    "name":"menu_botões",
+    "path":"folders/Objetos/menus/menu_botões.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_A",
+    "path":"sprites/spr_A/spr_A.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
