@@ -23,7 +23,7 @@ if(index==i){
 	draw_set_font(he_2)
 	index=i;
 	//trocar ara toque 
-	if(keyboard_check_pressed(vk_enter)){
+	if(open==true){
 	if(index==3){
 	game_end()
 	}
@@ -47,5 +47,7 @@ if(index==i){
 	}else{draw_set_color(c_white)}
 		draw_text(x1,y2,opcoes[i])
 		draw_set_font(he_3)
-		
+
+
 }
+

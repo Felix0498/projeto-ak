@@ -26,7 +26,7 @@ if(index==i){
 	draw_set_font(he_1)
 	index=i;
 	//trocar pra toque 
-	if(keyboard_check_pressed(vk_enter)){
+	if(open==true){
 	if(index==3){
 	game_end()
 	}
@@ -36,6 +36,7 @@ if(index==i){
 		instance_destroy(Obj_down)
 		}
 	else if(index==2){
+		
 		if(criador_de_som.music==true){
 			criador_de_som.music= !criador_de_som.music
 			audio_pause_all()
@@ -44,10 +45,14 @@ if(index==i){
 		audio_play_sound(sn_menu, 0, true);
 		 criador_de_som.music=true
 		}
+		
 	}
 	}
 
 	}else{draw_set_color(c_white)}
 		draw_text(x1,y2,menu[i])
 		draw_set_font(he)
+		
 }
+
+open=false

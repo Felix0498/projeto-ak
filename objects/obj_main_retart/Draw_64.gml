@@ -25,7 +25,7 @@ for(i=0;i<max_menuop;i++){
 	
 	//trocar ara toque mouse_check_button_pressed(mb_left)
 	
-		if(keyboard_check_pressed(vk_enter)){
+		if(open==true){
 	if(index==2){
 	game_end()
 	}
@@ -43,3 +43,4 @@ for(i=0;i<max_menuop;i++){
 
 }
 
+open=false

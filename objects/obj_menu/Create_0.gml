@@ -3,7 +3,7 @@
 menu=["Play","Tutorial","Audio","Sair",]
 main_ac=array_length(menu)
 index=0
-touch_detected = false
+open = false
 m_x = 0
 m_y = 0
 btn1=instance_create_depth(room_width/4,room_height/2,10,Obj_up)
