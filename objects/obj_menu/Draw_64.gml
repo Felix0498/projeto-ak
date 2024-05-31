@@ -30,6 +30,11 @@ if(index==i){
 	if(index==3){
 	game_end()
 	}
+	else if(index==1){
+	room_goto(Tutorial)
+		instance_destroy(Obj_up)
+		instance_destroy(Obj_down)
+	}
 	else if(index==0){
 		room_goto(Room1)
 		instance_destroy(Obj_up)
