@@ -1,8 +1,14 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 sprite_index=ataque
-audio_play_sound(som_ataque_perseguidor,4,false)
+
 instance_destroy(Obj_camera)
 estado = e_estado.matando;
 
-instance_create_depth(1366/2,768/2,10,obj_main_retart)
+instance_activate_object(obj_main_retart)
+instance_activate_object(Obj_down)
+instance_activate_object(Obj_up)
+instance_activate_object(obj_A)
+instance_deactivate_object(obj_btnPULO)
+instance_deactivate_object(atv_menu)
+instance_deactivate_object(obj_btnDASH)

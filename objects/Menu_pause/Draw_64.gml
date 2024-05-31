@@ -21,17 +21,21 @@ for(i=0;i<max_menuop;i++){
 if(index==i){
 	draw_set_color(c_red)
 	draw_set_font(he_2)
-	
 	index=i;
 	//trocar ara toque 
 	if(keyboard_check_pressed(vk_enter)){
 	if(index==3){
 	game_end()
 	}
-	else if(index==0){instance_activate_all() instance_destroy() with(atv_menu){open=false}}
-	else if(index==1){room_restart()}
-	else if(index==2){room_goto(main)
-			obj_menu.fechar()
+	else if(index==0){
+	    instance_activate_all()instance_deactivate_object(obj_main_retart) with(atv_menu){open=false}desativar()}
+	else if(index==1){	
+		desativar() instance_destroy() room_restart()
+	}
+	else if(index==2){
+		desativar() instance_destroy() room_goto(main)
+	   
+			
 		}
 	
 	

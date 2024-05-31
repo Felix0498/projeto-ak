@@ -18,26 +18,28 @@ for(i=0;i<max_menuop;i++){
 	string_w=string_width(opcoes[i])
 	string_h=string_height(opcoes[i])
 	//point_in_rectangle(m_x,m_y, x1 - (string_w / 2),y2 - (string_h / 2),x1 + (string_w/ 2),y2 + (string_h / 2))
-if(index=i){
+	if(index=i){
 	draw_set_color(c_red)
 	draw_set_font(he_2)
-	
 	index=i;
+	
 	//trocar ara toque mouse_check_button_pressed(mb_left)
-	if(keyboard_check_pressed(vk_enter)){
+	
+		if(keyboard_check_pressed(vk_enter)){
 	if(index==2){
 	game_end()
 	}
-	else if(index==0){room_restart();}
-	else if(index==1){room_goto(main)
-			obj_menu.fechar()
+	else if(index==0){desativar() room_restart() instance_deactivate_object(self) 
+		}
+	else if(index==1){ desativar() instance_destroy(self) room_goto(main) instance_deactivate_object(atv_menu)
+		
 		}
 	}
-		
 	
 	}else{draw_set_color(c_white)}
 		draw_text(x1,y2,opcoes[i])
 		draw_set_font(he_3)
 		
+
 }
 
