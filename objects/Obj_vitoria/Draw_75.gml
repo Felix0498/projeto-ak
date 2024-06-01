@@ -1,6 +1,4 @@
-
-
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-if( open==true) {room_goto(main)}
-open=false
+draw_set_font(he)
+draw_text(x,y,"GAME OVER")

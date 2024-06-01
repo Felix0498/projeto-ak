@@ -18,3 +18,9 @@ with(Menu_pause){
 	open=true
 
 }}
+if(object_exists(Obj_vitoria)){
+with(Obj_vitoria){
+
+	open=true
+
+}}

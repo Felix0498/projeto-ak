@@ -20,5 +20,12 @@ with(Menu_pause){
 	else if(index<=0){index=0}
 
 }}
+if(object_exists(Obj_vitoria)){
+with(Obj_vitoria){
+
+	if(index>=0){index-=1}
+	else if(index<=0){index=0}
+
+}}
 
 

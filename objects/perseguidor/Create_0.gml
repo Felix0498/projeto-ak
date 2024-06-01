@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-move_speed = 4;
+move_speed = 7;
 jump_speed = 25;
 
 move_x = 0;

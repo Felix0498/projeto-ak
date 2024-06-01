@@ -22,3 +22,10 @@ with(Menu_pause){
 	else if(index>max_menuop-1){index=max_menuop-1}
 
 }}
+if(object_exists(Obj_vitoria)){
+with(Obj_vitoria){
+
+	if(index<=max_menuop-1){index+=1}
+	else if(index>max_menuop-1){index=max_menuop-1}
+
+}}
