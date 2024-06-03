@@ -17,7 +17,7 @@ move_y = 0;
 	BOOSTING,
 	DESLIZAR,
 	PULANDO,
-	Dead,
+	DEAD
 };
 
 estado = E_ESTADO.RUNNING;

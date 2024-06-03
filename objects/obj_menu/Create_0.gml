@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-menu=["Play","Tutorial","Audio","Sair",]
+menu=["Play","Tutorial","Audio","Creditos","Sair",]
 main_ac=array_length(menu)
 index=0
 open = false
