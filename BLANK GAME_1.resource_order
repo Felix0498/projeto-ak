@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"Anotações","order":20,"path":"folders/Anotações.yy",},
+    {"name":"cameras","order":23,"path":"folders/cameras.yy",},
     {"name":"Caminhos","order":11,"path":"folders/Caminhos.yy",},
     {"name":"Cenas","order":17,"path":"folders/Cenas.yy",},
     {"name":"Conjuntos de tiles","order":9,"path":"folders/Conjuntos de tiles.yy",},
@@ -13,7 +14,6 @@
     {"name":"Objetos","order":16,"path":"folders/Objetos.yy",},
     {"name":"audios","order":16,"path":"folders/Objetos/audios.yy",},
     {"name":"botões","order":10,"path":"folders/Objetos/botões.yy",},
-    {"name":"cameras","order":23,"path":"folders/cameras.yy",},
     {"name":"cenario","order":15,"path":"folders/Objetos/cenario.yy",},
     {"name":"menus","order":17,"path":"folders/Objetos/menus.yy",},
     {"name":"menu restart","order":1,"path":"folders/Objetos/menus/menu restart.yy",},
