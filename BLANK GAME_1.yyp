@@ -23,7 +23,7 @@
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"audios","folderPath":"folders/Objetos/audios.yy","name":"audios","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"botões","folderPath":"folders/Objetos/botões.yy","name":"botões","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"cameras","folderPath":"folders/Objetos/cameras.yy","name":"cameras","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"cameras","folderPath":"folders/cameras.yy","name":"cameras","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"cenario","folderPath":"folders/Objetos/cenario.yy","name":"cenario","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menus","folderPath":"folders/Objetos/menus.yy","name":"menus","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menu pause","folderPath":"folders/Objetos/menus/menu pause.yy","name":"menu pause","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -59,7 +59,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"BLANK GAME_1",
   "resources":[

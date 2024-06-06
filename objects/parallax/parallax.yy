@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"cameras",
-    "path":"folders/Objetos/cameras.yy",
+    "path":"folders/cameras.yy",
   },
   "parentObjectId":null,
   "persistent":false,
