@@ -59,7 +59,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"BLANK GAME_1",
   "resources":[
@@ -96,10 +96,21 @@
     {"id":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"id":{"name":"fogo","path":"sounds/fogo/fogo.yy",},},
     {"id":{"name":"selecionado","path":"sounds/selecionado/selecionado.yy",},},
+<<<<<<< HEAD
+=======
+    {"id":{"name":"sn_derrota","path":"sounds/sn_derrota/sn_derrota.yy",},},
+>>>>>>> 1ea6ed89d86a0a5fa6e7af8b5f4c12001283c94e
     {"id":{"name":"sn_deslizar","path":"sounds/sn_deslizar/sn_deslizar.yy",},},
     {"id":{"name":"sn_menu","path":"sounds/sn_menu/sn_menu.yy",},},
     {"id":{"name":"sn_pulo","path":"sounds/sn_pulo/sn_pulo.yy",},},
+    {"id":{"name":"sn_rocha","path":"sounds/sn_rocha/sn_rocha.yy",},},
+    {"id":{"name":"sn_stalacktick","path":"sounds/sn_stalacktick/sn_stalacktick.yy",},},
+    {"id":{"name":"sn_vitoria","path":"sounds/sn_vitoria/sn_vitoria.yy",},},
     {"id":{"name":"som_ataque_perseguidor","path":"sounds/som_ataque_perseguidor/som_ataque_perseguidor.yy",},},
+<<<<<<< HEAD
+=======
+    {"id":{"name":"sn_gameplay","path":"sounds/sn_gameplay/sn_gameplay.yy",},},
+>>>>>>> 1ea6ed89d86a0a5fa6e7af8b5f4c12001283c94e
     {"id":{"name":"_3","path":"sprites/_3/_3.yy",},},
     {"id":{"name":"aron_correndo","path":"sprites/aron_correndo/aron_correndo.yy",},},
     {"id":{"name":"ataque","path":"sprites/ataque/ataque.yy",},},

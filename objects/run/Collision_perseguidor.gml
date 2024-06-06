@@ -7,6 +7,10 @@ move_x=0
 move_speed=0
 sprite_index=Dead
 
+	
+
+		
+
 
 
 

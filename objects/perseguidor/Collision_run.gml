@@ -5,6 +5,7 @@ sprite_index=ataque
 instance_destroy(Obj_camera)
 estado = e_estado.matando;
 
+
 instance_activate_object(obj_main_retart)
 instance_activate_object(Obj_down)
 instance_activate_object(Obj_up)
