@@ -29,7 +29,7 @@ else if (move_y < 10) move_y += 1 estado=estado=E_ESTADO.RUNNING;
 
 move_and_collide(move_x, move_y, chao );
 
-if (move_x != 0) image_xscale = sign(move_x);
+//if (move_x != 0) image_xscale = sign(move_x);
 
 if (estado == E_ESTADO.BOOSTING)
 {
