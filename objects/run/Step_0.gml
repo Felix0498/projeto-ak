@@ -13,11 +13,12 @@ if (place_meeting(x, y+2, chao ))
 		move_y = -jump_speed
 		move_x+=jump_speed 
 	    sprite_index=spr_pulando
-	
+		audio_play_sound(sn_pulo,10,false)
 		}
 		if(estado==E_ESTADO.DESLIZAR){
          sprite_index=spr_deslizado
          estado=E_ESTADO.DESLIZAR
+		 audio_play_sound(sn_deslizar,10,false)
 }
 	
 	

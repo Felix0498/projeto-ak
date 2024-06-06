@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"Anotações","order":20,"path":"folders/Anotações.yy",},
+    {"name":"cameras","order":23,"path":"folders/cameras.yy",},
     {"name":"Caminhos","order":11,"path":"folders/Caminhos.yy",},
     {"name":"Cenas","order":17,"path":"folders/Cenas.yy",},
     {"name":"Conjuntos de tiles","order":9,"path":"folders/Conjuntos de tiles.yy",},
@@ -13,7 +14,6 @@
     {"name":"Objetos","order":16,"path":"folders/Objetos.yy",},
     {"name":"audios","order":16,"path":"folders/Objetos/audios.yy",},
     {"name":"botões","order":10,"path":"folders/Objetos/botões.yy",},
-    {"name":"cameras","order":23,"path":"folders/cameras.yy",},
     {"name":"cenario","order":15,"path":"folders/Objetos/cenario.yy",},
     {"name":"menus","order":17,"path":"folders/Objetos/menus.yy",},
     {"name":"menu restart","order":1,"path":"folders/Objetos/menus/menu restart.yy",},
@@ -57,7 +57,9 @@
     {"name":"Tutorial","order":3,"path":"rooms/Tutorial/Tutorial.yy",},
     {"name":"fogo","order":2,"path":"sounds/fogo/fogo.yy",},
     {"name":"selecionado","order":1,"path":"sounds/selecionado/selecionado.yy",},
+    {"name":"sn_pulo","order":4,"path":"sounds/sn_pulo/sn_pulo.yy",},
     {"name":"som_ataque_perseguidor","order":3,"path":"sounds/som_ataque_perseguidor/som_ataque_perseguidor.yy",},
+    {"name":"sn_deslizar","order":5,"path":"sounds/sn_deslizar/sn_deslizar.yy",},
     {"name":"_3","order":4,"path":"sprites/_3/_3.yy",},
     {"name":"ataque","order":1,"path":"sprites/ataque/ataque.yy",},
     {"name":"Dead","order":2,"path":"sprites/Dead/Dead.yy",},
