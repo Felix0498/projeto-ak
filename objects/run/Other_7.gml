@@ -9,7 +9,6 @@ sprite_index=spr_pulando
 estado= E_ESTADO.RUNNING
 sprite_index=aron_correndo
 if(estado==E_ESTADO.DEAD){
-
  sprite_index=spr_morrendo
  if(image_number==0)
   image_speed=0

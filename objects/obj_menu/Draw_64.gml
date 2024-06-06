@@ -46,7 +46,6 @@ if(index==i){
 		instance_destroy(Obj_down)
 		}
 	else if(index==2){
-		
 		if(criador_de_som.music==true){
 			criador_de_som.music= !criador_de_som.music
 			audio_pause_all()
